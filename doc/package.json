@@ -1,6 +1,6 @@
 {
   "name": "isoconfig",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Universal configuration for universal JavaScript modules.",
   "main": "lib/index.js",
   "files": [
